@@ -1,10 +1,13 @@
 package spring.back.apirest.model.entity;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -13,6 +16,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.PrePersist;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
@@ -25,6 +29,10 @@ import javax.validation.constraints.Size;
 @Entity
 @Table(name="clientes")
 public class Cliente implements Serializable{
+	
+	public Cliente() {
+		this.facturas = new ArrayList<>();
+	}
 	
 	public Long getId() {
 		return id;
@@ -77,6 +85,16 @@ public class Cliente implements Serializable{
 	public void setRegion(Region region) {
 		this.region = region;
 	}
+	
+	
+	public List<Factura> getFacturas() {
+		return facturas;
+	}
+	public void setFacturas(List<Factura> facturas) {
+		this.facturas = facturas;
+	}
+
+
 
 	private static final long serialVersionUID = -7109603343817773768L;
 	@Id
@@ -102,6 +120,11 @@ public class Cliente implements Serializable{
 	@NotNull(message="la region no puede ser vacía")
 	@ManyToOne(fetch = FetchType.LAZY) //MUCHOS CLIENTES PUEDEN VIVIR EN UNA SOLA REGIÓN
 	@JoinColumn(name="region_id") 	//LA LLAVE FORANEA.
+							//168 MIN 6 ... PARA EVITAR EL ERROR DE HIBERNATE DE CONTENIDO BASURA
 	@JsonIgnoreProperties({"hibernateLazyInitializer","handler"}) //CLASE 113, MIN 8:30 ::: SI NO SE IGNORAN ESTOS ATRIBUTOS, VA A LANZAR UN ERROR.ESTOS OBJ'S SON DE HIBERNETE, QUE ESTÁ RELACIONADO AL OBJ REGION.
 	private Region region;
+									 //168 MIN 6 ... PARA EVITAR EL ERROR DE HIBERNATE DE CONTENIDO BASURA
+	@JsonIgnoreProperties({"cliente","hibernateLazyInitializer","handler"}) //POR CADA FACTURA SE IGNORA LA RELACIÓN INVERSA QUE SERÍA "CLIENTE" ... SE USA PARA Q NO SE CREE UN LOOP INFINITO ENTRE CLIENTE Y FACTURA, AL LLAMAR AL REST ... EN LA CONTRAPARTE FACTURA SE HACE LO MISMO.
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "cliente", cascade = CascadeType.ALL) //mappedBy = "cliente" : MAPEADO POR EL ATRIBUTO CLIENTE DE LA CLASE FACTURA. // ELIMINA CLIENTE --> SE ELIMINAN FACTURAS .... CREA CLIENTE ---> Y DESPUÉS SE REGISTRAN SUS FACTURAS.
+	private List<Factura>facturas;
 }

@@ -1,9 +1,0 @@
-package spring.back.apirest.model.service;
-
-import org.springframework.security.core.userdetails.UserDetailsService;
-import org.springframework.stereotype.Service;
-
-@Service
-public class UsuarioService implements UserDetailsServices{
-
-}

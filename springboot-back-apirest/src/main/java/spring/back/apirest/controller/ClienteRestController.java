@@ -52,7 +52,7 @@ public class ClienteRestController {
 		return clienteService.findAll(pageable);
 	}
 	
-	@Secured({"ROLE_ADMIN","ROLE_USER"})
+	//@Secured({"ROLE_ADMIN","ROLE_USER"})
 	@GetMapping("/clientes/{id}")
 	public ResponseEntity <?> clienteById(@PathVariable Long id) {
 		Map<String,Object>response = new HashMap<>();
