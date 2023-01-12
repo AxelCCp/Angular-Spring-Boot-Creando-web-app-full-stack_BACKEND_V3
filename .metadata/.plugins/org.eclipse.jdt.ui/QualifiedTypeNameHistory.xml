@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
-    <fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.AuthorizationServerConfigurerAdapter"/>
-    <fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer"/>
-    <fullyQualifiedTypeName name="org.springframework.security.authentication.AuthenticationManager"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
-    <fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter"/>
     <fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtTokenStore"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter"/>
@@ -40,7 +34,6 @@
     <fullyQualifiedTypeName name="javax.persistence.Id"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
@@ -51,7 +44,6 @@
     <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
     <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
     <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
-    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
     <fullyQualifiedTypeName name="spring.back.apirest.model.dao.IFacturaDao"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
@@ -60,4 +52,12 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="spring.back.apirest.model.dao.IProductoDao"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="spring.back.apirest.model.entity.Producto"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
 </qualifiedTypeNameHistroy>

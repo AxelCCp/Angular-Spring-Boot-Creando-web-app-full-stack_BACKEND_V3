@@ -10,8 +10,10 @@ import org.springframework.transaction.annotation.Transactional;
 
 import spring.back.apirest.model.dao.IClienteDao;
 import spring.back.apirest.model.dao.IFacturaDao;
+import spring.back.apirest.model.dao.IProductoDao;
 import spring.back.apirest.model.entity.Cliente;
 import spring.back.apirest.model.entity.Factura;
+import spring.back.apirest.model.entity.Producto;
 import spring.back.apirest.model.entity.Region;
 
 @Service
@@ -83,16 +85,20 @@ public class ClienteServiceImpl implements IClienteService{
 		facturaDao.deleteById(id);
 	}
 	
+	
+	@Override
+	@Transactional(readOnly = true)
+	public List<Producto> findProductoByNombre(String term) {
+		// TODO Auto-generated method stub
+		return productoDao.findByNombreContainingIgnoreCase(term);
+	}
+
+	
 	@Autowired
 	private IClienteDao clienteDao;
 	@Autowired
 	private IFacturaDao facturaDao;
-
+	@Autowired
+	private IProductoDao productoDao; 
 	
-
-	
-
-	
-
-
 }

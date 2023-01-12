@@ -91,11 +91,12 @@ public class Factura implements Serializable {
 	private String observacion;
 	@Column(name="create_at")
 	@Temporal(TemporalType.DATE)
-	private Date createAt;
-	@JsonIgnoreProperties({"facturas", "hibernateLazyInitializer", "handler"}) //POR CADA CLIENTE SE IGNORA LA RELACIÓN INVERSA QUE SERÍA "FACTURAS" ... SE USA PARA Q NO SE CREE UN LOOP INFINITO ENTRE CLIENTE Y FACTURA, AL LLAMAR AL REST ... EN LA CONTRAPARTE CLIENTE SE HACE LO MISMO.
+	private Date createAt;                                                         //allowSetters : ESTO ES PARA Q NO DÉ ERROR DE RECURSIVIDAD CUANDO SE CREA UNA FACTURA Y LUEGO SE ACTUALIZA EL CLIENTE.                                 
+	@JsonIgnoreProperties(value={"facturas", "hibernateLazyInitializer", "handler"}, allowSetters=true) //POR CADA CLIENTE SE IGNORA LA RELACIÓN INVERSA QUE SERÍA "FACTURAS" ... SE USA PARA Q NO SE CREE UN LOOP INFINITO ENTRE CLIENTE Y FACTURA, AL LLAMAR AL REST ... EN LA CONTRAPARTE CLIENTE SE HACE LO MISMO.
 	@ManyToOne(fetch = FetchType.LAZY)	//MUCHAS FACTURAS A UN SOLO CLIENTE.
 	private Cliente cliente;
-	@JsonIgnoreProperties({"hibernateLazyInitializer","handler"})		//168 MIN 6 ... PARA EVITAR EL ERROR DE HIBERNATE DE CONTENIDO BASURA. 
+	
+	@JsonIgnoreProperties(value={"hibernateLazyInitializer","handler"})		//168 MIN 6 ... PARA EVITAR EL ERROR DE HIBERNATE DE CONTENIDO BASURA. 
 	@OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)		//ELIMINA LA FACTURA Y DESPUÉS SE ELIMINAN LOS ITEMS. ... CREA LA FACTURA Y LUEGO SE AÑADEN LOS ITEMS.
 	@JoinColumn(name="factura_id")// "factura_id" : SE ESPECIFICA EL NOMBRE DE MANERA EXPLICITA  //ES NECESARIO INDICAR E JOINCOLUMN, YA QUE LA RELACIÓN ES SOLO DE FACTURA A ITEMFACTURA.  SI HUBIESE UNA RELACIÓN INVERSA EN ESTE EJEMPLO, CON UN ATRIBUTO FACTURA EN LA CLASE ITEMFACTURA, BASTARÍA. PERO PARA ESTE EJEPLO, LA RELACION ES SOLO FACTURA --> ITEMFACTURA.  
 	private List<ItemFactura> items;

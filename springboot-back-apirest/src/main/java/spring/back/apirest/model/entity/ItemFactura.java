@@ -51,7 +51,7 @@ public class ItemFactura implements Serializable{
 	private Long id;
 	private Integer cantidad;
 	@JsonIgnoreProperties({"hibernateLazyInitializer","handler"})		//168 MIN 6 ... PARA EVITAR EL ERROR DE HIBERNATE DE CONTENIDO BASURA. 
-	@ManyToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL) //MUCHOS ITEMS Y CADA ITEM CONTIENE UN SOLO TIPO DE PRODUCTO.
+	@ManyToOne(fetch = FetchType.LAZY) //MUCHOS ITEMS Y CADA ITEM CONTIENE UN SOLO TIPO DE PRODUCTO.		//, cascade = CascadeType.ALL
 	private Producto producto;
 	private static final long serialVersionUID = 2725110807196447241L;
 
