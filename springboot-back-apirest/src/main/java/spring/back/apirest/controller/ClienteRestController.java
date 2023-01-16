@@ -36,7 +36,8 @@ import spring.back.apirest.model.entity.Region;
 import spring.back.apirest.model.service.IClienteService;
 import spring.back.apirest.model.service.IUploadService;
 
-@CrossOrigin(origins={"http://localhost:4200"})
+//@CrossOrigin(origins={"http://localhost:4200"})				//PARA USO LOCAL.
+@CrossOrigin(origins={"http://localhost:4200", "*"})			//PARA USO CON DEPLOY EN SERVIDOR EXTERNO. EL "*" ES EL NOMBRE DEL SERVIDOR. CON * ACEPTA CUALQUIER NOMBRE.
 @RestController
 @RequestMapping("/api")
 public class ClienteRestController {

@@ -4809,3 +4809,659 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2023-01-12 15:16:39,173 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-01-12 15:16:39,173 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-01-12 15:16:39,173 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:17:07,882 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:17:07,882 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:17:07,883 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 15:17:07,893 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 15:17:07,895 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:17:07,895 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:17:07,895 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:31:18,129 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:31:18,129 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:31:18,130 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 15:31:18,134 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 15:31:18,136 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:31:18,136 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:31:18,136 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:31:54,469 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:31:54,470 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:31:54,470 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 15:31:54,474 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 15:31:54,475 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:31:54,475 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:31:54,475 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:33:02,975 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:33:02,975 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:33:02,976 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 15:33:02,979 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 15:33:02,981 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:33:02,981 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:33:02,981 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:34:13,962 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:34:13,962 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:34:13,963 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 15:34:13,965 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 15:34:13,967 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:34:13,967 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:34:13,967 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:34:42,838 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:34:42,838 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:34:42,839 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 15:34:42,848 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 15:34:42,851 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:34:42,851 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:34:42,851 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 15:42:33,033 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:42:33,033 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:42:33,034 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-12 15:42:33,034 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-12 15:42:33,035 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 15:42:33,035 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 15:42:33,035 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 16:09:18,038 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 16:09:18,039 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 16:09:18,039 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-12 16:09:18,039 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 16:09:18,042 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 16:09:18,042 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 16:09:18,042 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 17:27:03,921 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-12 17:28:43,283 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 17:28:43,284 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 17:28:43,287 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 17:28:43,301 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 17:28:43,304 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 17:28:43,304 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 17:28:43,304 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 17:28:51,540 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 17:28:51,541 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 17:28:51,543 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 17:28:51,547 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 17:28:51,549 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 17:28:51,549 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 17:28:51,549 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 17:30:24,626 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 17:30:24,626 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 17:30:24,627 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 17:30:24,630 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 17:30:24,631 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 17:30:24,631 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 17:30:24,632 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 21:37:28,203 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-12 21:42:46,751 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/3.0.1/spring-boot-starter-parent-3.0.1.pom
+2023-01-12 21:42:46,876 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/3.0.1/spring-boot-starter-parent-3.0.1.pom
+2023-01-12 21:42:46,941 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/3.0.1/spring-boot-dependencies-3.0.1.pom
+2023-01-12 21:42:47,117 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/3.0.1/spring-boot-dependencies-3.0.1.pom
+2023-01-12 21:42:47,215 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.14/metrics-bom-4.2.14.pom
+2023-01-12 21:42:47,278 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.2.14/metrics-bom-4.2.14.pom
+2023-01-12 21:42:47,336 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.14/metrics-parent-4.2.14.pom
+2023-01-12 21:42:47,413 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.2.14/metrics-parent-4.2.14.pom
+2023-01-12 21:42:47,492 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/14.0.4.Final/infinispan-bom-14.0.4.Final.pom
+2023-01-12 21:42:47,559 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/14.0.4.Final/infinispan-bom-14.0.4.Final.pom
+2023-01-12 21:42:47,620 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/14.0.4.Final/infinispan-build-configuration-parent-14.0.4.Final.pom
+2023-01-12 21:42:47,689 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/14.0.4.Final/infinispan-build-configuration-parent-14.0.4.Final.pom
+2023-01-12 21:42:47,788 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/11.0.13/jetty-bom-11.0.13.pom
+2023-01-12 21:42:47,860 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/11.0.13/jetty-bom-11.0.13.pom
+2023-01-12 21:42:47,939 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.7.22/kotlin-bom-1.7.22.pom
+2023-01-12 21:42:48,005 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.7.22/kotlin-bom-1.7.22.pom
+2023-01-12 21:42:48,079 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.86.Final/netty-bom-4.1.86.Final.pom
+2023-01-12 21:42:48,148 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.86.Final/netty-bom-4.1.86.Final.pom
+2023-01-12 21:42:48,222 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2022.0.1/reactor-bom-2022.0.1.pom
+2023-01-12 21:42:48,291 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2022.0.1/reactor-bom-2022.0.1.pom
+2023-01-12 21:42:48,359 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.0.3/spring-framework-bom-6.0.3.pom
+2023-01-12 21:42:48,428 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.0.3/spring-framework-bom-6.0.3.pom
+2023-01-12 21:42:48,486 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/6.0.1/spring-integration-bom-6.0.1.pom
+2023-01-12 21:42:48,561 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/6.0.1/spring-integration-bom-6.0.1.pom
+2023-01-12 21:42:48,624 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/6.0.1/spring-security-bom-6.0.1.pom
+2023-01-12 21:42:48,696 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/6.0.1/spring-security-bom-6.0.1.pom
+2023-01-12 21:42:49,268 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/3.0.1/spring-boot-maven-plugin-3.0.1.pom
+2023-01-12 21:42:49,401 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/3.0.1/spring-boot-maven-plugin-3.0.1.pom
+2023-01-12 21:42:49,465 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/3.0.1/spring-boot-maven-plugin-3.0.1.jar
+2023-01-12 21:42:49,624 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/3.0.1/spring-boot-maven-plugin-3.0.1.jar
+2023-01-12 21:42:49,897 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-12 21:42:49,969 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb/3.0.1/spring-boot-starter-data-mongodb-3.0.1.pom
+2023-01-12 21:42:50,033 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb/3.0.1/spring-boot-starter-data-mongodb-3.0.1.pom
+2023-01-12 21:42:50,094 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/3.0.1/spring-boot-starter-3.0.1.pom
+2023-01-12 21:42:50,172 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/3.0.1/spring-boot-starter-3.0.1.pom
+2023-01-12 21:42:50,238 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/3.0.1/spring-boot-3.0.1.pom
+2023-01-12 21:42:50,302 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/3.0.1/spring-boot-3.0.1.pom
+2023-01-12 21:42:50,363 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.3/spring-core-6.0.3.pom
+2023-01-12 21:42:50,447 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.3/spring-core-6.0.3.pom
+2023-01-12 21:42:50,515 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.3/spring-jcl-6.0.3.pom
+2023-01-12 21:42:50,585 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.3/spring-jcl-6.0.3.pom
+2023-01-12 21:42:50,659 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.0.3/spring-context-6.0.3.pom
+2023-01-12 21:42:50,729 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.0.3/spring-context-6.0.3.pom
+2023-01-12 21:42:50,798 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3.pom
+2023-01-12 21:42:50,871 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3.pom
+2023-01-12 21:42:50,931 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3.pom
+2023-01-12 21:42:51,008 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3.pom
+2023-01-12 21:42:51,065 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.3/spring-expression-6.0.3.pom
+2023-01-12 21:42:51,140 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.3/spring-expression-6.0.3.pom
+2023-01-12 21:42:51,204 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1.pom
+2023-01-12 21:42:51,282 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1.pom
+2023-01-12 21:42:51,347 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/3.0.1/spring-boot-starter-logging-3.0.1.pom
+2023-01-12 21:42:51,423 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/3.0.1/spring-boot-starter-logging-3.0.1.pom
+2023-01-12 21:42:51,497 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.pom
+2023-01-12 21:42:51,575 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.pom
+2023-01-12 21:42:51,653 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.6/slf4j-parent-2.0.6.pom
+2023-01-12 21:42:51,755 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.6/slf4j-parent-2.0.6.pom
+2023-01-12 21:42:51,836 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.6/jul-to-slf4j-2.0.6.pom
+2023-01-12 21:42:51,907 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.6/jul-to-slf4j-2.0.6.pom
+2023-01-12 21:42:52,009 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.8.1/mongodb-driver-sync-4.8.1.pom
+2023-01-12 21:42:52,084 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.8.1/mongodb-driver-sync-4.8.1.pom
+2023-01-12 21:42:52,144 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.1/bson-4.8.1.pom
+2023-01-12 21:42:52,218 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.1/bson-4.8.1.pom
+2023-01-12 21:42:52,300 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.1/mongodb-driver-core-4.8.1.pom
+2023-01-12 21:42:52,383 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.1/mongodb-driver-core-4.8.1.pom
+2023-01-12 21:42:52,449 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.84.Final/netty-bom-4.1.84.Final.pom
+2023-01-12 21:42:52,519 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.84.Final/netty-bom-4.1.84.Final.pom
+2023-01-12 21:42:52,593 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.1/bson-record-codec-4.8.1.pom
+2023-01-12 21:42:52,665 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.1/bson-record-codec-4.8.1.pom
+2023-01-12 21:42:52,736 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.pom
+2023-01-12 21:42:52,805 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.pom
+2023-01-12 21:42:52,878 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb-parent/4.0.0/spring-data-mongodb-parent-4.0.0.pom
+2023-01-12 21:42:52,960 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb-parent/4.0.0/spring-data-mongodb-parent-4.0.0.pom
+2023-01-12 21:42:53,053 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.3/spring-tx-6.0.3.pom
+2023-01-12 21:42:53,133 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.3/spring-tx-6.0.3.pom
+2023-01-12 21:42:53,213 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.1/spring-boot-starter-web-3.0.1.pom
+2023-01-12 21:42:53,283 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.1/spring-boot-starter-web-3.0.1.pom
+2023-01-12 21:42:53,365 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.0.1/spring-boot-starter-json-3.0.1.pom
+2023-01-12 21:42:53,435 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.0.1/spring-boot-starter-json-3.0.1.pom
+2023-01-12 21:42:53,500 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.0.3/spring-web-6.0.3.pom
+2023-01-12 21:42:53,569 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.0.3/spring-web-6.0.3.pom
+2023-01-12 21:42:53,687 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.0.1/spring-boot-starter-tomcat-3.0.1.pom
+2023-01-12 21:42:53,757 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.0.1/spring-boot-starter-tomcat-3.0.1.pom
+2023-01-12 21:42:53,825 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.4/tomcat-embed-core-10.1.4.pom
+2023-01-12 21:42:53,940 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.4/tomcat-embed-core-10.1.4.pom
+2023-01-12 21:42:54,018 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.4/tomcat-embed-el-10.1.4.pom
+2023-01-12 21:42:54,089 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.4/tomcat-embed-el-10.1.4.pom
+2023-01-12 21:42:54,174 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.4/tomcat-embed-websocket-10.1.4.pom
+2023-01-12 21:42:54,245 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.4/tomcat-embed-websocket-10.1.4.pom
+2023-01-12 21:42:54,315 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.0.3/spring-webmvc-6.0.3.pom
+2023-01-12 21:42:54,410 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.0.3/spring-webmvc-6.0.3.pom
+2023-01-12 21:42:54,480 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/3.0.1/spring-boot-starter-websocket-3.0.1.pom
+2023-01-12 21:42:54,557 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/3.0.1/spring-boot-starter-websocket-3.0.1.pom
+2023-01-12 21:42:54,652 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.0.3/spring-messaging-6.0.3.pom
+2023-01-12 21:42:54,741 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.0.3/spring-messaging-6.0.3.pom
+2023-01-12 21:42:54,806 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/6.0.3/spring-websocket-6.0.3.pom
+2023-01-12 21:42:54,881 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/6.0.3/spring-websocket-6.0.3.pom
+2023-01-12 21:42:54,963 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.pom
+2023-01-12 21:42:55,043 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.pom
+2023-01-12 21:42:55,110 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.1/spring-boot-starter-test-3.0.1.pom
+2023-01-12 21:42:55,168 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.1/spring-boot-starter-test-3.0.1.pom
+2023-01-12 21:42:55,239 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/3.0.1/spring-boot-test-3.0.1.pom
+2023-01-12 21:42:55,337 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/3.0.1/spring-boot-test-3.0.1.pom
+2023-01-12 21:42:55,406 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/3.0.1/spring-boot-test-autoconfigure-3.0.1.pom
+2023-01-12 21:42:55,480 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/3.0.1/spring-boot-test-autoconfigure-3.0.1.pom
+2023-01-12 21:42:55,574 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.20/byte-buddy-1.12.20.pom
+2023-01-12 21:42:55,638 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.20/byte-buddy-1.12.20.pom
+2023-01-12 21:42:55,699 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.20/byte-buddy-parent-1.12.20.pom
+2023-01-12 21:42:55,773 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.20/byte-buddy-parent-1.12.20.pom
+2023-01-12 21:42:55,860 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20.pom
+2023-01-12 21:42:55,931 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20.pom
+2023-01-12 21:42:56,018 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.3/spring-test-6.0.3.pom
+2023-01-12 21:42:56,085 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.3/spring-test-6.0.3.pom
+2023-01-12 21:42:56,169 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb/3.0.1/spring-boot-starter-data-mongodb-3.0.1.jar
+2023-01-12 21:42:56,223 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/3.0.1/spring-boot-starter-3.0.1.jar
+2023-01-12 21:42:56,224 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/3.0.1/spring-boot-starter-logging-3.0.1.jar
+2023-01-12 21:42:56,225 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.6/jul-to-slf4j-2.0.6.jar
+2023-01-12 21:42:56,231 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.8.1/mongodb-driver-sync-4.8.1.jar
+2023-01-12 21:42:56,296 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb/3.0.1/spring-boot-starter-data-mongodb-3.0.1.jar
+2023-01-12 21:42:56,296 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/3.0.1/spring-boot-starter-3.0.1.jar
+2023-01-12 21:42:56,296 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.6/jul-to-slf4j-2.0.6.jar
+2023-01-12 21:42:56,296 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/3.0.1/spring-boot-starter-logging-3.0.1.jar
+2023-01-12 21:42:56,369 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.8.1/mongodb-driver-sync-4.8.1.jar
+2023-01-12 21:42:56,418 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.1/bson-record-codec-4.8.1.jar
+2023-01-12 21:42:56,418 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.1/bson-4.8.1.jar
+2023-01-12 21:42:56,639 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.1/mongodb-driver-core-4.8.1.jar
+2023-01-12 21:42:56,661 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.jar
+2023-01-12 21:42:56,725 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.3/spring-tx-6.0.3.jar
+2023-01-12 21:42:56,751 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.1/bson-record-codec-4.8.1.jar
+2023-01-12 21:42:56,851 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.1/bson-4.8.1.jar
+2023-01-12 21:42:56,953 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.0.3/spring-context-6.0.3.jar
+2023-01-12 21:42:57,182 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3.jar
+2023-01-12 21:42:57,433 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.3/spring-tx-6.0.3.jar
+2023-01-12 21:42:57,657 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.3/spring-expression-6.0.3.jar
+2023-01-12 21:42:58,451 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.3/spring-expression-6.0.3.jar
+2023-01-12 21:42:58,677 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar
+2023-01-12 21:42:58,750 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3.jar
+2023-01-12 21:42:58,944 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.1/spring-boot-starter-web-3.0.1.jar
+2023-01-12 21:42:58,985 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.0.3/spring-context-6.0.3.jar
+2023-01-12 21:42:59,007 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar
+2023-01-12 21:42:59,008 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.1/mongodb-driver-core-4.8.1.jar
+2023-01-12 21:42:59,019 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.1/spring-boot-starter-web-3.0.1.jar
+2023-01-12 21:42:59,044 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.0.1/spring-boot-starter-json-3.0.1.jar
+2023-01-12 21:42:59,080 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.0.1/spring-boot-starter-tomcat-3.0.1.jar
+2023-01-12 21:42:59,082 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.4/tomcat-embed-core-10.1.4.jar
+2023-01-12 21:42:59,083 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.jar
+2023-01-12 21:42:59,280 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.4/tomcat-embed-el-10.1.4.jar
+2023-01-12 21:42:59,298 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.4/tomcat-embed-websocket-10.1.4.jar
+2023-01-12 21:42:59,306 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.0.1/spring-boot-starter-json-3.0.1.jar
+2023-01-12 21:42:59,306 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.0.1/spring-boot-starter-tomcat-3.0.1.jar
+2023-01-12 21:42:59,528 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.0.3/spring-webmvc-6.0.3.jar
+2023-01-12 21:42:59,528 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.0.3/spring-web-6.0.3.jar
+2023-01-12 21:42:59,808 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.4/tomcat-embed-el-10.1.4.jar
+2023-01-12 21:42:59,808 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.4/tomcat-embed-websocket-10.1.4.jar
+2023-01-12 21:43:00,005 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3.jar
+2023-01-12 21:43:00,006 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/3.0.1/spring-boot-starter-websocket-3.0.1.jar
+2023-01-12 21:43:00,225 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/3.0.1/spring-boot-starter-websocket-3.0.1.jar
+2023-01-12 21:43:00,420 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.0.3/spring-messaging-6.0.3.jar
+2023-01-12 21:43:00,742 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3.jar
+2023-01-12 21:43:00,918 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.0.3/spring-webmvc-6.0.3.jar
+2023-01-12 21:43:00,966 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/6.0.3/spring-websocket-6.0.3.jar
+2023-01-12 21:43:01,114 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.jar
+2023-01-12 21:43:01,424 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.0.3/spring-messaging-6.0.3.jar
+2023-01-12 21:43:01,599 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.jar
+2023-01-12 21:43:01,663 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/3.0.1/spring-boot-3.0.1.jar
+2023-01-12 21:43:01,677 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.0.3/spring-web-6.0.3.jar
+2023-01-12 21:43:01,748 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/6.0.3/spring-websocket-6.0.3.jar
+2023-01-12 21:43:01,862 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1.jar
+2023-01-12 21:43:01,946 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.1/spring-boot-starter-test-3.0.1.jar
+2023-01-12 21:43:02,021 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/3.0.1/spring-boot-test-3.0.1.jar
+2023-01-12 21:43:02,188 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.4/tomcat-embed-core-10.1.4.jar
+2023-01-12 21:43:02,204 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.1/spring-boot-starter-test-3.0.1.jar
+2023-01-12 21:43:02,445 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/3.0.1/spring-boot-test-autoconfigure-3.0.1.jar
+2023-01-12 21:43:02,445 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.20/byte-buddy-1.12.20.jar
+2023-01-12 21:43:02,553 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/3.0.1/spring-boot-test-3.0.1.jar
+2023-01-12 21:43:02,759 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20.jar
+2023-01-12 21:43:02,987 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/3.0.1/spring-boot-test-autoconfigure-3.0.1.jar
+2023-01-12 21:43:03,179 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.3/spring-core-6.0.3.jar
+2023-01-12 21:43:03,299 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20.jar
+2023-01-12 21:43:03,473 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/3.0.1/spring-boot-3.0.1.jar
+2023-01-12 21:43:03,512 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.3/spring-jcl-6.0.3.jar
+2023-01-12 21:43:03,676 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.3/spring-test-6.0.3.jar
+2023-01-12 21:43:03,760 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.3/spring-jcl-6.0.3.jar
+2023-01-12 21:43:03,813 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1.jar
+2023-01-12 21:43:04,670 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.3/spring-test-6.0.3.jar
+2023-01-12 21:43:04,900 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.3/spring-core-6.0.3.jar
+2023-01-12 21:43:05,246 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.20/byte-buddy-1.12.20.jar
+2023-01-12 21:43:07,076 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.back.apirest:springboot-back-apirest:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\pom.xml.
+2023-01-12 21:43:07,375 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-12 21:43:08,244 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/main/java
+2023-01-12 21:43:08,244 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-12 21:43:08,247 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-12 21:43:08,250 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/test/java
+2023-01-12 21:43:08,523 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 22 sec
+2023-01-12 21:43:08,527 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-12 21:43:08,723 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-12 21:43:09,207 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/main/java
+2023-01-12 21:43:09,208 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-12 21:43:09,208 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-12 21:43:09,209 [Worker-12: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/test/java
+2023-01-12 21:43:09,388 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb/3.0.1/spring-boot-starter-data-mongodb-3.0.1-sources.jar
+2023-01-12 21:43:09,484 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb/3.0.1/spring-boot-starter-data-mongodb-3.0.1-sources.jar
+2023-01-12 21:43:09,532 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-mongodb:3.0.1
+2023-01-12 21:43:09,570 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-12 21:43:09,795 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/3.0.1/spring-boot-starter-3.0.1-sources.jar
+2023-01-12 21:43:09,896 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/3.0.1/spring-boot-starter-3.0.1-sources.jar
+2023-01-12 21:43:09,934 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:3.0.1
+2023-01-12 21:43:10,167 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 21:43:10,193 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 21:43:10,195 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/3.0.1/spring-boot-starter-logging-3.0.1-sources.jar
+2023-01-12 21:43:10,196 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-12 21:43:10,324 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/3.0.1/spring-boot-starter-logging-3.0.1-sources.jar
+2023-01-12 21:43:10,369 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:3.0.1
+2023-01-12 21:43:10,632 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.6/jul-to-slf4j-2.0.6-sources.jar
+2023-01-12 21:43:10,746 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/2.0.6/jul-to-slf4j-2.0.6-sources.jar
+2023-01-12 21:43:10,806 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jul-to-slf4j:2.0.6
+2023-01-12 21:43:11,085 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.8.1/mongodb-driver-sync-4.8.1-sources.jar
+2023-01-12 21:43:11,085 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 21:43:11,085 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 21:43:11,085 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-12 21:43:11,099 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-12 21:43:11,103 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-12 21:43:11,103 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-12 21:43:11,104 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-12 21:43:11,237 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.8.1/mongodb-driver-sync-4.8.1-sources.jar
+2023-01-12 21:43:11,277 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-sync:4.8.1
+2023-01-12 21:43:11,513 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.1/bson-4.8.1-sources.jar
+2023-01-12 21:43:11,824 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.1/bson-4.8.1-sources.jar
+2023-01-12 21:43:11,863 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:bson:4.8.1
+2023-01-12 21:43:12,107 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.1/mongodb-driver-core-4.8.1-sources.jar
+2023-01-12 21:43:12,501 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.1/mongodb-driver-core-4.8.1-sources.jar
+2023-01-12 21:43:12,538 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-core:4.8.1
+2023-01-12 21:43:12,798 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.1/bson-record-codec-4.8.1-sources.jar
+2023-01-12 21:43:12,910 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.1/bson-record-codec-4.8.1-sources.jar
+2023-01-12 21:43:12,951 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:bson-record-codec:4.8.1
+2023-01-12 21:43:13,224 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0-sources.jar
+2023-01-12 21:43:13,626 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0-sources.jar
+2023-01-12 21:43:13,695 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-mongodb:4.0.0
+2023-01-12 21:43:13,936 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.3/spring-tx-6.0.3-sources.jar
+2023-01-12 21:43:14,196 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/6.0.3/spring-tx-6.0.3-sources.jar
+2023-01-12 21:43:14,234 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:6.0.3
+2023-01-12 21:43:14,481 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.0.3/spring-context-6.0.3-sources.jar
+2023-01-12 21:43:14,852 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/6.0.3/spring-context-6.0.3-sources.jar
+2023-01-12 21:43:14,885 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:6.0.3
+2023-01-12 21:43:15,136 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3-sources.jar
+2023-01-12 21:43:15,453 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3-sources.jar
+2023-01-12 21:43:15,495 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:6.0.3
+2023-01-12 21:43:15,762 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.3/spring-expression-6.0.3-sources.jar
+2023-01-12 21:43:15,949 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/6.0.3/spring-expression-6.0.3-sources.jar
+2023-01-12 21:43:16,003 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:6.0.3
+2023-01-12 21:43:16,271 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6-sources.jar
+2023-01-12 21:43:16,413 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6-sources.jar
+2023-01-12 21:43:16,462 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.6
+2023-01-12 21:43:16,746 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.1/spring-boot-starter-web-3.0.1-sources.jar
+2023-01-12 21:43:16,858 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.1/spring-boot-starter-web-3.0.1-sources.jar
+2023-01-12 21:43:16,902 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:3.0.1
+2023-01-12 21:43:17,145 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.0.1/spring-boot-starter-json-3.0.1-sources.jar
+2023-01-12 21:43:17,253 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/3.0.1/spring-boot-starter-json-3.0.1-sources.jar
+2023-01-12 21:43:17,317 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:3.0.1
+2023-01-12 21:43:17,561 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.0.1/spring-boot-starter-tomcat-3.0.1-sources.jar
+2023-01-12 21:43:17,686 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/3.0.1/spring-boot-starter-tomcat-3.0.1-sources.jar
+2023-01-12 21:43:17,774 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:3.0.1
+2023-01-12 21:43:18,011 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.4/tomcat-embed-core-10.1.4-sources.jar
+2023-01-12 21:43:18,763 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/10.1.4/tomcat-embed-core-10.1.4-sources.jar
+2023-01-12 21:43:18,841 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:10.1.4
+2023-01-12 21:43:19,105 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.4/tomcat-embed-el-10.1.4-sources.jar
+2023-01-12 21:43:19,324 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/10.1.4/tomcat-embed-el-10.1.4-sources.jar
+2023-01-12 21:43:19,378 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-el:10.1.4
+2023-01-12 21:43:19,624 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.4/tomcat-embed-websocket-10.1.4-sources.jar
+2023-01-12 21:43:19,845 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.4/tomcat-embed-websocket-10.1.4-sources.jar
+2023-01-12 21:43:19,888 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:10.1.4
+2023-01-12 21:43:20,204 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.0.3/spring-web-6.0.3-sources.jar
+2023-01-12 21:43:20,611 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/6.0.3/spring-web-6.0.3-sources.jar
+2023-01-12 21:43:20,665 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:6.0.3
+2023-01-12 21:43:20,966 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.0.3/spring-webmvc-6.0.3-sources.jar
+2023-01-12 21:43:21,298 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/6.0.3/spring-webmvc-6.0.3-sources.jar
+2023-01-12 21:43:21,351 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:6.0.3
+2023-01-12 21:43:21,592 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3-sources.jar
+2023-01-12 21:43:21,886 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3-sources.jar
+2023-01-12 21:43:21,956 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:6.0.3
+2023-01-12 21:43:22,202 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/3.0.1/spring-boot-starter-websocket-3.0.1-sources.jar
+2023-01-12 21:43:22,320 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/3.0.1/spring-boot-starter-websocket-3.0.1-sources.jar
+2023-01-12 21:43:22,357 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-websocket:3.0.1
+2023-01-12 21:43:22,617 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.0.3/spring-messaging-6.0.3-sources.jar
+2023-01-12 21:43:22,890 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/6.0.3/spring-messaging-6.0.3-sources.jar
+2023-01-12 21:43:22,937 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-messaging:6.0.3
+2023-01-12 21:43:23,188 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/6.0.3/spring-websocket-6.0.3-sources.jar
+2023-01-12 21:43:23,476 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/6.0.3/spring-websocket-6.0.3-sources.jar
+2023-01-12 21:43:23,520 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-websocket:6.0.3
+2023-01-12 21:43:23,801 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1-sources.jar
+2023-01-12 21:43:24,001 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1-sources.jar
+2023-01-12 21:43:24,069 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.0.1
+2023-01-12 21:43:24,325 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/3.0.1/spring-boot-3.0.1-sources.jar
+2023-01-12 21:43:24,685 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/3.0.1/spring-boot-3.0.1-sources.jar
+2023-01-12 21:43:24,748 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:3.0.1
+2023-01-12 21:43:25,015 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1-sources.jar
+2023-01-12 21:43:25,359 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1-sources.jar
+2023-01-12 21:43:25,397 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:3.0.1
+2023-01-12 21:43:25,635 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.1/spring-boot-starter-test-3.0.1-sources.jar
+2023-01-12 21:43:25,762 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.1/spring-boot-starter-test-3.0.1-sources.jar
+2023-01-12 21:43:25,796 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:3.0.1
+2023-01-12 21:43:26,043 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/3.0.1/spring-boot-test-3.0.1-sources.jar
+2023-01-12 21:43:26,251 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/3.0.1/spring-boot-test-3.0.1-sources.jar
+2023-01-12 21:43:26,295 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:3.0.1
+2023-01-12 21:43:26,557 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/3.0.1/spring-boot-test-autoconfigure-3.0.1-sources.jar
+2023-01-12 21:43:26,776 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/3.0.1/spring-boot-test-autoconfigure-3.0.1-sources.jar
+2023-01-12 21:43:26,807 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:3.0.1
+2023-01-12 21:43:27,064 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.20/byte-buddy-1.12.20-sources.jar
+2023-01-12 21:43:27,540 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.20/byte-buddy-1.12.20-sources.jar
+2023-01-12 21:43:27,608 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.20
+2023-01-12 21:43:27,855 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20-sources.jar
+2023-01-12 21:43:28,052 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.20/byte-buddy-agent-1.12.20-sources.jar
+2023-01-12 21:43:28,107 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.12.20
+2023-01-12 21:43:28,359 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.3/spring-core-6.0.3-sources.jar
+2023-01-12 21:43:28,812 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.3/spring-core-6.0.3-sources.jar
+2023-01-12 21:43:28,858 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:6.0.3
+2023-01-12 21:43:29,117 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.3/spring-jcl-6.0.3-sources.jar
+2023-01-12 21:43:29,227 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.3/spring-jcl-6.0.3-sources.jar
+2023-01-12 21:43:29,300 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:6.0.3
+2023-01-12 21:43:29,559 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.3/spring-test-6.0.3-sources.jar
+2023-01-12 21:43:29,874 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/6.0.3/spring-test-6.0.3-sources.jar
+2023-01-12 21:43:29,909 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:6.0.3
+2023-01-12 21:43:30,502 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 21:43:30,503 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 21:43:30,504 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 11:37:53,251 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-13 11:42:42,616 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-13 11:42:43,059 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 11:42:43,071 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 11:42:43,074 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 11:42:44,620 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 11:42:44,627 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 11:42:44,628 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 11:43:07,183 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-13 11:43:07,406 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-13 11:43:07,670 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/main/java
+2023-01-13 11:43:07,670 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-13 11:43:07,670 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-13 11:43:07,671 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/test/java
+2023-01-13 11:43:07,825 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-01-13 11:43:08,175 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 11:43:08,186 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 11:43:08,188 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 11:43:19,597 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-13 11:43:19,934 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.back.apirest:springboot-back-apirest:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\pom.xml.
+2023-01-13 11:43:20,697 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-back-apirest/src/main/java
+2023-01-13 11:43:20,698 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-back-apirest/src/main/resources
+2023-01-13 11:43:20,698 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-back-apirest/src/main/resources
+2023-01-13 11:43:20,699 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-back-apirest/src/test/java
+2023-01-13 11:43:20,929 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-13 11:43:21,666 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-13 11:43:21,666 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-13 11:43:21,667 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-13 11:43:21,699 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-13 11:43:21,709 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-13 11:43:21,710 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-13 11:43:21,710 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-13 11:44:28,572 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 11:44:28,575 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 11:44:28,577 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 11:48:58,454 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 11:48:58,457 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 11:48:58,458 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 12:00:45,895 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 12:00:45,903 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 12:00:45,904 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 12:03:52,323 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 12:03:52,327 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 12:03:52,328 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 12:06:35,265 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 12:06:35,268 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 12:06:35,268 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:06:48,599 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:06:48,607 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:06:48,608 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:06:50,631 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:06:50,635 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:06:50,636 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:08:01,065 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:08:01,071 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:08:01,072 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:08:20,574 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:08:20,578 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:08:20,579 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:14:09,012 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:14:09,016 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:14:09,017 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:14:40,133 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:14:40,137 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:14:40,138 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:14:43,345 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:14:43,349 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:14:43,350 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:15:00,814 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:15:00,815 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:15:00,817 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:15:23,296 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:15:23,300 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:15:23,302 [main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:16:02,614 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:16:02,618 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:16:02,619 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:16:23,165 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:16:23,168 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:16:23,169 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:19:51,926 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:19:51,929 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:19:51,930 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:20:00,607 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:20:00,609 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:20:00,610 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:20:11,976 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:20:11,978 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:20:11,978 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-13 14:24:37,602 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-13 14:24:37,605 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-13 14:24:37,606 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-14 19:20:14,986 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-14 20:25:20,084 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 12:54:35,788 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 13:21:40,482 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:21:40,492 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:21:40,494 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:21:41,834 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-15 13:21:41,834 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-15 13:21:41,835 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-15 13:21:41,846 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-15 13:21:41,854 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-15 13:21:41,854 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-15 13:21:41,854 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-15 13:21:53,015 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-15 13:21:53,016 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-15 13:21:53,018 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-15 13:21:53,020 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-15 13:21:53,025 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-15 13:21:53,026 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-15 13:21:53,026 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\springboot-back-apirest\src\test\resources
+2023-01-15 13:22:44,997 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:22:45,011 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:22:45,013 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:23:48,555 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:23:48,563 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:23:48,564 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:24:51,156 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:24:51,158 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:24:51,159 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:25:51,357 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:25:51,360 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:25:51,360 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:52:06,006 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:52:06,014 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:52:06,016 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:52:45,472 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:52:45,479 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:52:45,480 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:54:04,113 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:54:04,117 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:54:04,118 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:57:37,293 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:57:37,297 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:57:37,298 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:58:11,066 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:58:11,069 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:58:11,070 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:58:27,282 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:58:27,284 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:58:27,285 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 13:58:44,587 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:58:44,605 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:58:44,606 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 14:32:27,095 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:32:27,101 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:32:27,102 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 14:33:59,347 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:33:59,350 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:33:59,351 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 14:34:09,008 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:34:09,013 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:34:09,017 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 14:35:11,050 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:35:11,053 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:35:11,054 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:07:02,865 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-15 17:07:03,168 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:07:03,168 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:07:03,170 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:07:04,702 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:07:04,713 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:07:04,715 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:07:10,931 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-15 17:07:11,069 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring.chat.websocket:spring-chat-websocket:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\pom.xml.
+2023-01-15 17:07:11,305 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/main/java
+2023-01-15 17:07:11,306 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-15 17:07:11,306 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-chat-websocket/src/main/resources
+2023-01-15 17:07:11,306 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-chat-websocket/src/test/java
+2023-01-15 17:07:11,465 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-01-15 17:07:11,779 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:07:11,787 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:07:11,790 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:10:33,721 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:10:33,724 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:10:33,725 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:10:44,120 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:10:44,123 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:10:44,124 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:12:22,957 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:12:22,960 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:12:22,961 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:13:08,727 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:13:08,731 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:13:08,732 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:13:37,466 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:13:37,470 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:13:37,471 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:14:36,335 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:14:36,338 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:14:36,339 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:15:19,430 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:15:19,434 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:15:19,436 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:15:49,037 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:15:49,041 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:15:49,042 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:16:43,133 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:16:43,136 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:16:43,137 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:21:08,631 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:21:08,635 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:21:08,636 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:23:07,534 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:23:07,538 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:23:07,539 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:23:32,806 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:23:32,811 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:23:32,812 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:24:37,780 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:24:37,785 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:24:37,786 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:25:56,179 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:25:56,182 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:25:56,183 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:26:33,524 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:26:33,528 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:26:33,529 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:28:19,294 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:28:19,299 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:28:19,300 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 17:56:44,037 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:56:44,042 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:56:44,042 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:05:40,820 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:05:40,830 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:05:40,832 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:05:51,110 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:05:51,121 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:05:51,123 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:17:16,576 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:17:16,582 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:17:16,583 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:18:48,549 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:18:48,554 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:18:48,555 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:20:42,341 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:20:42,351 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:20:42,352 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:22:32,718 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:22:32,721 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:22:32,722 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:23:45,287 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:23:45,290 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:23:45,291 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:25:06,193 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:25:06,197 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:25:06,198 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources
+2023-01-15 18:25:50,817 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:25:50,821 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:25:50,822 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Fanta\Documents\11.-SPRING_CON_ANGULAR_BACKEND_V3\spring-chat-websocket\src\test\resources

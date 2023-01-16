@@ -19,7 +19,8 @@ import spring.back.apirest.model.entity.Factura;
 import spring.back.apirest.model.entity.Producto;
 import spring.back.apirest.model.service.IClienteService;
 
-@CrossOrigin(origins={"http://localhost:4200"})
+//@CrossOrigin(origins={"http://localhost:4200"})				//PARA USO LOCAL.
+@CrossOrigin(origins={"http://localhost:4200", "*"})			//PARA USO CON DEPLOY EN SERVIDOR EXTERNO. EL "*" ES EL NOMBRE DEL SERVIDOR. CON * ACEPTA CUALQUIER NOMBRE.
 @RestController
 @RequestMapping("/api")
 public class FacturaRestController {
